@@ -6,3 +6,5 @@ Check out the brief introduction of this game:
 
 Game Flow:
 <img width="4677" height="2289" alt="遊戲流程" src="https://github.com/user-attachments/assets/cf17abe3-3a48-490e-ab40-5cf4562ad937" />
+
+This game is created on 2023
