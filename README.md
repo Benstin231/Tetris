@@ -9,4 +9,4 @@ Brief introduction of this game:
 Game Flow:
 <img width="auto" height="auto" alt="遊戲流程" src="https://github.com/user-attachments/assets/cf17abe3-3a48-490e-ab40-5cf4562ad937" />
 
-This game is created on 2023
+This game was created on 2023
