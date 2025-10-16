@@ -1,10 +1,12 @@
 # Tetris
 Tetris - A C# based game
 
-Check out the brief introduction of this game:
-[Brief Introduction.pdf](https://github.com/user-attachments/files/22943651/1121735-.pdf)
+Brief introduction of this game:
+<img width="auto" height="auto" alt="1121735--1" src="https://github.com/user-attachments/assets/89f59ad1-8f90-4218-aa68-9a2cd949cc05" />
+<img width="auto" height="auto" alt="1121735--2" src="https://github.com/user-attachments/assets/30d7aec1-364e-46f8-8c85-b069e1eea9bc" />
+
 
 Game Flow:
-<img width="4677" height="2289" alt="遊戲流程" src="https://github.com/user-attachments/assets/cf17abe3-3a48-490e-ab40-5cf4562ad937" />
+<img width="auto" height="auto" alt="遊戲流程" src="https://github.com/user-attachments/assets/cf17abe3-3a48-490e-ab40-5cf4562ad937" />
 
 This game is created on 2023
